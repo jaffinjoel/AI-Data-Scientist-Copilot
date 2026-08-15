@@ -1,6 +1,11 @@
 # AI Data Scientist Copilot
 
-An enterprise-style analytics platform built using Python, Streamlit, Pandas, Plotly, and Scikit-learn.
+Enterprise Sales Analytics Platform built with Python, Streamlit, Pandas, Plotly, and Scikit-learn.
+
+## Dashboard Preview
+
+![Home](screenshots/home.png)
+
 
 ## Features
 
