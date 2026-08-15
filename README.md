@@ -1,39 +1,39 @@
 # AI Data Scientist Copilot
 
-Enterprise Sales Analytics Platform built with Python, Streamlit, Pandas, Plotly, and Scikit-learn.
-
-## Dashboard Preview
-
-![Home](screenshots/home.png)
-
+## Live Demo
+https://your-streamlit-link.streamlit.app
 
 ## Features
-
 - Dataset Upload
-- Data Quality Checks
+- Data Quality Check
 - Data Cleaning
-- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis
 - Machine Learning (Regression)
 - AI Business Insights
-- AI Dataset Assistant (Natural Language Q&A)
+- AI Dataset Chat Assistant
 - Downloadable Reports
 
 ## Tech Stack
-
 - Python
-- Streamlit
 - Pandas
 - NumPy
 - Plotly
 - Scikit-learn
+- Streamlit
+- Git & GitHub
+- Streamlit Cloud
 
-## Run Locally
+## Screenshots
+(Insert screenshots from the screenshots folder)
 
-```bash
+## Installation
 pip install -r requirements.txt
-python -m streamlit run app.py
-```
+streamlit run app.py
 
-## Example Dataset
-
-Works with supermarket sales, retail sales, and other sales datasets from Kaggle.
+## Project Structure
+AI-Data-Scientist-Copilot/
+├── app.py
+├── requirements.txt
+├── sample_sales.csv
+├── screenshots/
+└── README.md
