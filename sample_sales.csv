@@ -1,0 +1,11 @@
+Order_ID,Customer,Age,City,Product,Quantity,Price,Order_Date
+1001,Alice,25,Bangalore,Laptop,1,55000,2026-01-05
+1002,Bob,31,Chennai,Phone,2,18000,2026-01-08
+1003,Charlie,28,Hyderabad,Tablet,1,22000,2026-01-10
+1004,David,35,Mumbai,Laptop,1,56000,2026-01-12
+1005,Eva,29,Bangalore,Phone,3,19000,2026-01-15
+1006,Frank,40,Delhi,Monitor,2,15000,2026-01-18
+1007,Grace,27,Pune,Tablet,2,21000,2026-01-20
+1008,Harry,33,Chennai,Laptop,1,57000,2026-01-23
+1009,Ivy,26,Hyderabad,Phone,2,18500,2026-01-25
+1010,Jack,30,Bangalore,Monitor,1,15500,2026-01-28
